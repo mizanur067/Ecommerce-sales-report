@@ -30,7 +30,7 @@ The pipeline follows a layered data architecture:
 <img width="1493" height="626" alt="image" src="https://github.com/user-attachments/assets/1d855ff9-36b8-4f2d-889a-c4ae5a6b2698" />
 
 
-<## Pipeline Components
+## Pipeline Components
 
 - **Job Orchestration:** Databricks Jobs
 - **Pipelines:** Delta Live Tables (DLT)

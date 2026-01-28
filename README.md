@@ -15,18 +15,7 @@ The data for this project is sourced from AWS services:
   - Sales transactions
   - Seller information
 
-## Data Source
 
-The data for this project is sourced from AWS services:
-
-- **Cloud Provider:** Amazon Web Services (AWS)
-- **Storage:** Amazon S3
-- **Data Type:** Streaming / Incremental data
-- **Domains:**
-  - Customer details
-  - Product details
-  - Sales transactions
-  - Seller information
     
 ## Pipeline Architecture
 
